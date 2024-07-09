@@ -9,12 +9,17 @@ layout: default
 # Data-flow Availability
 
 
-This is the website for the paper [OSDI' 24](https://www.usenix.org/conference/osdi24/presentation/li) *Data-flow Availability: Achieving Timing Assurance on Autonomous Systems*  
+This is the website for the paper --  
+ [OSDI' 24](https://www.usenix.org/conference/osdi24/presentation/li) *Data-flow Availability: Achieving Timing Assurance on Autonomous Systems*  
 
 The source code is accessible at: [GitHub link](https://github.com/WUSTL-CSPL/Kairos-Userspace).
 
 
-You may also be interested in our prior work [RTAS' 24](https://ieeexplore.ieee.org/document/10568068): *An empirical study of performance interference: Timing violation patterns and impacts*
+
+
+
+You may also be interested in our prior work --  
+[RTAS' 24](https://ieeexplore.ieee.org/document/10568068): *An empirical study of performance interference: Timing violation patterns and impacts*
 
 
 
